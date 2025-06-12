@@ -1,11 +1,12 @@
 # Site-wide settings
 # ------------------
 #
- title: Personal page
+ title: Charles Bray
 #
  author:
    name: Charles Bray
    email: charles.f.bray@gmail.com
+   linkedin: https://www.linkedin.com/in/charlie-bray-75393893/
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
