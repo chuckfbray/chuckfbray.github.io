@@ -2,9 +2,9 @@
 layout: post
 title: "What makes inference...causal inference?"
 ---
-How do we know that x causes y? The easy answer is "with a randomized, controlled experiment". But sometimes the easy answer is not possible. Or, at least, we just can't/won't devote the time and resources to achieving the easy answer. Which when described this way, maybe seems like not the easy answer after all!
+How do we know that x causes y? The straightforward answer is "with a randomized, controlled experiment". But sometimes the straightforward answer is not possible for reasons of ethical or time constraints. Just think, for example, about trying to set up an RCT on the effect of microplastics on endocrine system disorders. These develop over decades and may want faster answers, and moreover, dosing people with likely harmful substances violates a number of ethical research norms.
 
-![The classic boogeyman of epidemiology/economics: confounding/omitted variable bias](/assets/img/confound.jpg)
+<img src="/assets/img/confound.jpg" alt="The classic boogeyman of epidemiology/economics: confounding/omitted variable bias" width="60%">
 *credit: Sara Hart, Callie Little, Elsje van Bergen via figshare.com*
 
 But the instinct to pursue a randomized, controlled experiment is correct; such a setting ensures that groups being compared are only different in terms of the intervention, on average. We codify this in three major principles of causal inference:
