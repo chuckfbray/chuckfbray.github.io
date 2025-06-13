@@ -1,7 +1,9 @@
 ---
 layout: post
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+How do we know that x causes y? The easy answer is "with a randomized, controlled experiment". But sometimes the easy answer is not possible (or, at least, we just can't or won't devote the time and resources to achieving the easy answer. Which when described this way, maybe seems like not the easy answer after all!). 
+
+But the instinct to pursue a randomized, controlled experiment is still correct; the principles of causal inference 
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
