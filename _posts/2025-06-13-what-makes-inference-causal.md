@@ -4,6 +4,9 @@ title: "What makes inference...causal inference?"
 ---
 How do we know that x causes y? The easy answer is "with a randomized, controlled experiment". But sometimes the easy answer is not possible. Or, at least, we just can't/won't devote the time and resources to achieving the easy answer. Which when described this way, maybe seems like not the easy answer after all!
 
+![The classic boogeyman of epidemiology/economics: confounding/omitted variable bias](/assets/img/confound.jpg)
+*credit: Sara Hart, Callie Little, Elsje van Bergen via figshare.com*
+
 But the instinct to pursue a randomized, controlled experiment is correct; such a setting ensures that groups being compared are only different in terms of the intervention, on average. We codify this in three major principles of causal inference:
 
 (1) xxx
@@ -18,5 +21,10 @@ Observational research, where we compare groups with respect to some interventio
 
 This might be a bit of an idealized example, but it is inspired by ___. Girl Scout cookies are made by two rival baking corporations. One cookie
 
-### Can we think of a real-world scenario that sets up the experiment *for* us?
+### And if we don't have a super-clever natural experiment, what are some study design or analytical steps we can take?
 
+Matching
+
+Weighting
+
+Doubly-robust methods
